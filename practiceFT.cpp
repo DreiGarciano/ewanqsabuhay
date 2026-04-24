@@ -19,7 +19,7 @@ int main() {
     cout << "\nThe Stored Numbers are: ";
 
     for(int i = 0; i < n; i++) {
-        sort(data.begin(), data.end()); // used for sorting
+        sort(data.begin(), data.end()); // used for sorting bagay bagagy
         cout << data[i] << " ";
     }
 
@@ -221,17 +221,4 @@ int main() {
         cout << endl;
     }
 */
-    //athena above all                                                          //athena above all
-        //athena above all                                                  //athena above all
-            //athena above all                                          //athena above all
-                //athena above all                                  //athena above all
-                    //athena above all          drie             //athena above all
-                        //athena above all                   //athena above all
-                            //athena above all     <3    //athena above all
-                        //athena above all                  //athena above all
-                    //athena above all                          //athena above all
-                //athena above all                                  //athena above all
-            //athena above all                                          //athena above all
-        //athena above all                                                  //athena above all
-    //athena above all                                                          //athena above all
 }
